@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name] at [Your Email].
+For any inquiries or feedback, please contact Divyanshu at singhdivyanshu@gmail.com.
