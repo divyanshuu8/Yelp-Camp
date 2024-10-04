@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cloudinary": "^1.41.3",
+    "@maptiler/client": "^1.8.1",
+    "cloudinary": "^1.23.0",
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
